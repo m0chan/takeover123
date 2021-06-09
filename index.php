@@ -1,2 +1,1 @@
-<?php echo "m0chanwashere" ?>
-
+<p hidden>m0chan</p>
